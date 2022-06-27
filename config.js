@@ -41,22 +41,22 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['62881038186826'] //ur owner number
-global.ownername = "KadekGanz"
+global.owner = ['6288803916107'] //ur owner number
+global.ownername = "galang"
 global.ytname = "https://linktr.ee/KadekBotz" //ur yt chanel name
 global.socialm = "https://linktr.ee/KadekBotz" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "KadekBotz-MD" //ur bot name
+global.botname = "BotGalang-MD" //ur bot name
 global.websitex = "https://linktr.ee/KadekBotz" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "KadekBotz-MD\n\n\n\n\n\n\ "
-global.author = "By KadekGanz"
+global.packname = "GalangBotz-MD\n\n\n\n\n\n\ "
+global.author = "By Galang"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
 global.ownertag = ['https://linktr.ee/KadekBotz'] //ur owner tag
-global.ownernummenu = ['62881038186826'] //ur owner number in menu and all
+global.ownernummenu = ['6288803916107'] //ur owner number in menu and all
 global.watermark = "Created By KadekGanz." //ur watermark
 global.botscript = "www.xnxx.com"
 global.linkz1 = "https://linktr.ee/KadekBotz"
