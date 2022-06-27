@@ -9280,7 +9280,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `Hi ${pushname}`,
                     description: `Please Choose The Menu
 *DONATE ME DANA OR PULSA*
-*[083813063969]*\n\n`,
+*[083114072346]*\n\n`,
                     buttonText: "Menu",
                     footerText: `${global.botname}`,
                     listType: "SINGLE_SELECT",
